@@ -1,0 +1,7 @@
+NAME:DORITA ELIN. X
+REG.NO:1924260009
+COMPILER:VSCODE
+GCC COMANDS USED TO RUN:
+gcc hello.c -o hello
+./hello
+strace ./hello
